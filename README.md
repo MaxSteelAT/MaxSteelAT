@@ -1,3 +1,6 @@
+![Magenta Moderna Aula Virtual Google Classroom Header](https://github.com/user-attachments/assets/ea4dbf90-424d-48c4-9111-e8237990d00b)
+
+
 <h1 align="center">Hi 👋, I'm Ingrid Lopez</h1>
 <h3 align="center">Frontend developer from Mexico</h3>
 

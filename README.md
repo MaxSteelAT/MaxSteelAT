@@ -33,3 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxsteelat&show_icons=true&locale=en" alt="maxsteelat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxsteelat&" alt="maxsteelat" /></p>
+
+
+
+![Diseño sin título (3)](https://github.com/user-attachments/assets/ad8fa27b-1e72-4ef3-b23e-3e32684a5600)

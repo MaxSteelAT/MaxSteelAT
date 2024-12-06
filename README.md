@@ -11,7 +11,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxsteelat" alt="maxsteelat" /></a> </p>
 
-- 🔭 I’m currently working on [Frontend Mentor projects](https://www.frontendmentor.io/profile/MaxSteelAT)
+ 🔭 I’m currently working on
+- [Frontend Mentor projects](https://www.frontendmentor.io/profile/MaxSteelAT)
+- [Microsoft Learn](https://learn.microsoft.com/es-es/users/MaxSteel-1108)
+
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React...**
 
